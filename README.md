@@ -22,9 +22,9 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 
 ## Status
 
-<!-- ![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge) -->
+![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
-![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+<!-- ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge) -->
 
 ## Descrição:
 
@@ -56,9 +56,9 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **1.js**: Crie uma função que recebe uma array de números e retorna a soma de todos os elementos.
 - **2.js**: Desenvolva uma função que recebe uma array de strings e retorna uma nova array com as strings convertidas para maiúsculas.
 - **3.js**: Implemente uma função que recebe uma array de objetos e retorna uma nova array apenas com os objetos que têm a propriedade "ativo" como verdadeira.
-- **4.js**: Crie uma função que recebe duas arrays e retorna uma nova array com os elementos únicos de ambas as arrays.
-- **5.js**: Desenvolva uma função que recebe uma array de números e retorna uma nova array com os números ordenados de forma crescente.
-- **6.js**: Implemente uma função que recebe uma array de strings e retorna uma nova array com as strings ordenadas por ordem alfabética.
+- **4.js**: Desenvolva uma função que recebe uma array de números e retorna uma nova array com os números ordenados de forma crescente.
+- **5.js**: Implemente uma função que recebe uma array de strings e retorna uma nova array com as strings ordenadas por ordem alfabética.
+- **6.js**:
 - **7.js**: Crie uma função que recebe uma array de números e retorna o maior número da array.
 - **8.js**: Desenvolva uma função que recebe uma array de objetos e uma chave, e retorna uma nova array com os valores dessa chave de cada objeto.
 - **9.js**: Implemente uma função que recebe uma array de números e retorna a média aritmética desses números.
