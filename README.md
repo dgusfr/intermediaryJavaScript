@@ -58,21 +58,16 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **3.js**: Implemente uma função que recebe uma array de objetos e retorna uma nova array apenas com os objetos que têm a propriedade "ativo" como verdadeira.
 - **4.js**: Desenvolva uma função que recebe uma array de números e retorna uma nova array com os números ordenados de forma crescente.
 - **5.js**: Implemente uma função que recebe uma array de strings e retorna uma nova array com as strings ordenadas por ordem alfabética.
-- **6.js**:
-- **7.js**: Crie uma função que recebe uma array de números e retorna o maior número da array.
-- **8.js**: Desenvolva uma função que recebe uma array de objetos e uma chave, e retorna uma nova array com os valores dessa chave de cada objeto.
-- **9.js**: Implemente uma função que recebe uma array de números e retorna a média aritmética desses números.
-- **10.js**: Crie uma função que recebe uma array de números e retorna uma nova array com apenas os números pares.
-- **11.js**: Desenvolva uma função que recebe uma array de strings e um caractere, e retorna uma nova array apenas com as strings que contêm esse caractere.
-- **12.js**: Implemente uma função que recebe uma array de números e um número alvo, e retorna verdadeiro se algum par de números na array soma para o número alvo.
-- **13.js**: Crie uma função que recebe uma array de objetos e uma chave, e retorna verdadeiro se todos os objetos possuem essa chave.
-- **14.js**: Desenvolva uma função que recebe uma array de números e retorna verdadeiro se todos os números são positivos.
-- **15.js**: Implemente uma função que recebe uma array de strings e um padrão, e retorna verdadeiro se todas as strings na array correspondem ao padrão.
-- **16.js**: Crie uma função que recebe uma array de objetos e uma função de filtro, e retorna uma nova array com os objetos que passam no filtro.
-- **17.js**: Desenvolva uma função que recebe uma array de números e retorna verdadeiro se a soma dos números é um quadrado perfeito.
-- **18.js**: Implemente uma função que recebe uma array de strings e um comprimento máximo, e retorna uma nova array com as strings truncadas se excederem esse comprimento.
-- **19.js**: Crie uma função que recebe uma array de objetos e uma propriedade, e retorna a soma dos valores dessa propriedade em todos os objetos.
-- **20.js**: Desenvolva uma função que recebe uma array de números e retorna uma nova array com os números multiplicados por um fator fornecido.
+- **6.js**: Crie uma função que recebe uma array de números e retorna o maior número da array.
+- **7.js**: Desenvolva uma função que recebe uma array de objetos e uma chave, e retorna uma nova array com os valores dessa chave de cada objeto.
+- **8.js**: Implemente uma função que recebe uma array de números e retorna a média aritmética desses números.
+- **9.js**: Crie uma função que recebe uma array de números e retorna uma nova array com apenas os números pares.
+- **10.js**: Desenvolva uma função que recebe uma array de strings e um caractere, e retorna uma nova array apenas com as strings que contêm esse caractere.
+- **11.js**: Desenvolva uma função que recebe uma array de números e retorna verdadeiro se todos os números são positivos.
+- **12.js**: Crie uma função que recebe uma array de objetos e uma função de filtro, e retorna uma nova array com os objetos que passam no filtro.
+- **13.js**: Implemente uma função que recebe uma array de strings e um comprimento máximo, e retorna uma nova array com as strings truncadas se excederem esse comprimento.
+- **14.js**: Crie uma função que recebe uma array de objetos e uma propriedade, e retorna a soma dos valores dessa propriedade em todos os objetos.
+- **15.js**: Desenvolva uma função que recebe uma array de números e retorna uma nova array com os números multiplicados por um fator fornecido.
 - **bonus.js**
 
 **DOM**
@@ -124,7 +119,7 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 
   - 1.js
   - ...
-  - 20.js
+  - 15.js
 
 - **DOM**
   - 1.js
