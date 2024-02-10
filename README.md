@@ -65,7 +65,7 @@ Este repositório contém uma série de exercícios resolvidos em JavaScript, ab
 - **10.js**: Desenvolva uma função que recebe uma array de strings e um caractere, e retorna uma nova array apenas com as strings que contêm esse caractere.
 - **11.js**: Desenvolva uma função que recebe uma array de números e retorna verdadeiro se todos os números são positivos.
 - **12.js**: Crie uma função que recebe uma array de objetos e uma função de filtro, e retorna uma nova array com os objetos que passam no filtro.
-- **13.js**: Implemente uma função que recebe uma array de strings e um comprimento máximo, e retorna uma nova array com as strings truncadas se excederem esse comprimento.
+- **13.js**: Implemente uma função que recebe uma array de strings e um comprimento máximo, e retorna uma nova array com as strings truncadas (cortadas/encurtadas) se excederem esse comprimento.
 - **14.js**: Crie uma função que recebe uma array de objetos e uma propriedade, e retorna a soma dos valores dessa propriedade em todos os objetos.
 - **15.js**: Desenvolva uma função que recebe uma array de números e retorna uma nova array com os números multiplicados por um fator fornecido.
 - **bonus.js**
